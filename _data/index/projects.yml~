@@ -7,7 +7,7 @@
   img: /static/assets/img/landing/PwebSquare.png
   desc: Este es un proyecto de creacion de paginas web en el que he trabajado.
 
-- name: <a href="https://connect.unity.com/p/medieval-1">Triad the game</a>
+- name: <a href="http://prontowebs.com/">Triad the game</a>
   i18n: cpython
   img: /static/assets/img/landing/unity.png
   desc: Videojuego programado en C# de el cual trabajo toda la parte programada

@@ -1,0 +1,6 @@
+# skills section data
+
+label: Ability
+id : cs
+aspects: Liderazgo, Direccion de equipos, Python, Administracion, Web, Creatividad, Motivacion
+percentage: 90, 75, 45, 80, 80, 100, 100

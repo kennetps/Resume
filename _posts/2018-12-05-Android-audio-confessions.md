@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Control de audio en Android"
+date:   2017-01-31
+desc: "Detalles encontrados sobre el control de audio en AndroidStudio"
+keywords: "Jalpc,Jekyll,gh-pages,website,blog,easy"
+categories: [Android]
+tags: [audio,android]
+icon: icon-android
+---
+
+Después de revisar el control de Android Studio para el sonido tengo las siguientes conclusiones:
+
+•	Muchas propiedades se encuentran poco explicitas, causando dificultad para trabajar algunos métodos.
+
+•	Una vez entendido, el control es bastante simple.
+
+•	Las posibilidades de customización son altas.
+
+•	La integración con el sistema Android es prácticamente una línea, lo cual facilita la centralización de las operaciones.
+
+El manejo de estas propiedades debe de ser de cuidado, sin embargo es bastante amplio para lograr cualquier operación.

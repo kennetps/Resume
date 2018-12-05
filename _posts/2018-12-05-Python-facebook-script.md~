@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Determinar tema de publicaciones con script de Python"
+date:   2018-12-05
+desc: "Revisar que publica la gente en Facebook es importante para todos, ¿lograremos automatizarlo con Python?"
+keywords: "facebook,python,script,investigación,blog"
+categories: [Python]
+tags: [facebook,python,script,investigación,blog]
+icon: icon-python
+---
